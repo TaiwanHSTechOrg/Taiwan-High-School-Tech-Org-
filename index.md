@@ -1,7 +1,7 @@
 ---
 layout: default
 title: High School Technical Internships
-description: 台灣高中生實習社團
+description: 台灣高中實習生社團
 ---
 
 ## 啟發點
