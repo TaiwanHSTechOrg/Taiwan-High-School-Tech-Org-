@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+	background-color: #f6f6ef;
+}
+.page-header {
+	background-color: #f26522;
+	background-image: none;
+}
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: #151514;
+}
+.btn#page-btn {
+	color: #f26522;
+	border-color: #f26522;
+
+	&:hover {
+		color: rgba(255, 255, 255, 0.8);
+	    text-decoration: none;
+	    background-color: #f26522;
+	}
+}
+.main-nav {
+	padding-top: 50px;
+}
+.active {
+	color: #ff6f61;
+}
