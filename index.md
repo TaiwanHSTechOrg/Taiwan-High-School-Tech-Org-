@@ -42,7 +42,7 @@ description: 台灣高中實習生社團
 
 ## Post 規則
 
-只有滿足以下條件的公司才能在 **Startup Jobs Taiwan**創業中發布。
+只有滿足以下條件的公司才能在 **台灣高中實習生社團**創業中發布。
 
 * 任何公司都可以發布
 * 工作機會不能是工讀生或其他打雜相關職缺
@@ -129,7 +129,7 @@ description: 台灣高中實習生社團
 
 ## Moderation Rules
 
-Only companies that satisfy the following conditions can post in **Startup Jobs Taiwan** community.
+Only companies that satisfy the following conditions can post in **High School Technical Internships** community.
 
 * All companies could make your post. 
 * Servitors aren't the kind of jobs. 
